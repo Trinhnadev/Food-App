@@ -38,6 +38,7 @@
     gap: 20px;
 }
 .cart-total-details{
+   
     display: flex;
     justify-content: space-between;
     color: #555;
@@ -74,7 +75,7 @@
     background: transparent;
     border: none;
     outline: none;
-    padding: left 10px;
+    padding-left: 10px;
 }
 .cart-promocode-input button{
     width: max(10vw,150px);
