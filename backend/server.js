@@ -7,6 +7,8 @@ import 'dotenv/config'
 import cartRouter from "./routers/cartRoutes.js";
 import orderRouter from "./routers/orderRoute.js";
 
+
+
 // App config
 const app = express();
 const port = 4000;
